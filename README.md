@@ -91,4 +91,4 @@ whether you are building websites, mobile apps, or even emails.
 
 ---
 
-*"Don't underestimate HTML. Master the basics, and the rest becomes easy."*
+*"Sushil Pawar"*
